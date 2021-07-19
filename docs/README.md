@@ -3,7 +3,6 @@
     <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
     <img src="https://visitor-badge.glitch.me/badge?page_id=shaoxiongdu.java-design-pattern">
 <br>
-    <h3><a href="https://shaoxiongdu.github.io/java-design-pattern/#/" target="_blank">项目在线站点</a></h3>
 </div>
 
 ## 一.设计模式介绍
