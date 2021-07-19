@@ -1,0 +1,19 @@
+# 默认忽略的文件
+/shelf/
+/.idea/workspace.xml
+# 数据源本地存储已忽略文件
+/dataSources/
+/dataSources.local.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
+
+*.xml
+*.iml
+
+/.idea
+
+# 项目排除路径
+/out/
+
+something.txt
+
