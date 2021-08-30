@@ -37,7 +37,7 @@
 
    - 最好`fork` 然后克隆到本地，建议使用IDEA + Typora 进行学习
 
-   - 每种设计模式下，都伴有对应的UML图，IDEA可以安装插件 [【PlantUML】](https://plugins.jetbrains.com/plugin/7017-plantuml-integration) 对UML图进行编辑或查看
+   - 每种设计模式下，都伴有对应的UML图，可以直接查看。如果想要编辑，可以安装IDEA插件 [【PlantUML】](https://plugins.jetbrains.com/plugin/7017-plantuml-integration) 对其进行编辑。
 
 ## 三.清单
 
